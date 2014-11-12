@@ -1,9 +1,11 @@
 @charset "utf-8";
 
 section h2{
+  font-size: 30px;
   border-bottom:1px solid #dddddd;
 }
 
 section li{
+  font-size: 20px;
   height:2.5em;
 }
