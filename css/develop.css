@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+section h2{
+  border-bottom:1px solid #dddddd;
+}
+
+section li{
+  height:2.5em;
+}

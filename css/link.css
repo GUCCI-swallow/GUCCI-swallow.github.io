@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+#main ul{
+  list-style:none;
+}
+
+#main li {
+  text-align:center;
+}
+
+/*.twitter{
+  list-style-image:url(../img/twitter-bird.jpg);
+
+}
+
+.blog{
+  list-style-image:url(../img/hatebu.png);
+}*/
